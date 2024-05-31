@@ -1,0 +1,1613 @@
+[2024-01-29 07:36:45.059] [info] Using configuration file /home/embern/.config/waybar/config
+[2024-01-29 07:36:45.059] [info] Using CSS file /home/embern/.config/waybar/style.css
+[2024-01-29 07:36:45.063] [info] Hyprland IPC starting
+[2024-01-29 07:36:45.065] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2024-01-29 07:36:45.065] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2024-01-29 07:36:45.071] [error] media stopped unexpectedly, is it endless?
+[2024-01-29 07:36:45.071] [warning] module temperature: Disabling module "temperature", Can't open /sys/class/thermal/thermal_zone0/temp
+[2024-01-29 07:36:45.072] [warning] module backlight: Disabling module "backlight", No backlight found
+[2024-01-29 07:36:45.072] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:36:45.072] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:36:45.072] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:36:45.072] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:36:45.072] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:36:45.072] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:36:45.072] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:36:45.072] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:36:45.072] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:36:45.072] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:36:45.072] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:36:45.072] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:36:45.072] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:36:45.072] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:36:45.072] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:36:45.072] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:36:45.072] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:36:45.072] [warning] Can't open /dev/input/event18 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:36:45.072] [warning] Can't open /dev/input/event19 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:36:45.072] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:36:45.072] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:36:45.072] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Permission denied
+[2024-01-29 07:36:45.098] [warning] No batteries.
+[2024-01-29 07:36:45.098] [warning] No battery named BAT2
+[2024-01-29 07:36:45.216] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 07:36:46.071] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:36:48.072] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:36:50.072] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:36:52.074] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:36:54.076] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:36:56.077] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:36:58.079] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:00.080] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:02.082] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:04.084] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:06.085] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:08.088] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:10.089] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:12.091] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:14.093] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:16.095] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:18.098] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:20.099] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:22.101] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:24.102] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:26.104] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:28.105] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:30.107] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:32.109] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:34.110] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:36.111] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:38.112] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:40.115] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:42.117] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:44.119] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:46.120] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:48.122] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:50.124] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:52.126] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:54.127] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:56.130] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:37:58.131] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:00.132] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:02.134] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:04.135] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:06.138] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:08.139] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:10.141] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:12.144] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:14.147] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:16.149] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:18.150] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:20.152] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:22.155] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:24.157] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:26.159] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:28.160] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:30.162] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:32.163] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:34.165] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:36.168] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:38.169] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:40.171] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:42.174] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:44.175] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:46.176] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:48.179] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:50.181] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:52.182] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:54.185] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:56.187] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:38:58.189] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:00.190] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:02.192] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:04.194] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:06.197] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:08.199] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:10.202] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:12.204] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:14.205] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:16.208] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:18.210] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:20.213] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:22.215] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:24.217] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:26.219] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:28.221] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:30.224] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:32.226] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:34.229] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:36.230] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:38.231] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:40.234] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:42.236] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:44.239] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:46.240] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:48.243] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:50.244] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:52.246] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:54.248] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:56.249] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:39:58.250] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:00.251] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:02.252] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:04.253] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:06.255] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:08.256] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:10.259] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:12.261] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:14.262] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:16.263] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:18.264] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:20.265] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:22.267] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:24.269] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:26.271] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:28.272] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:30.275] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:32.275] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:34.278] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:36.280] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:38.282] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:40.284] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:42.287] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:44.289] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:46.291] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:48.292] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:50.295] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:52.298] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:54.299] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:56.301] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:40:58.304] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:00.305] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:02.306] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:04.309] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:06.310] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:08.312] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:10.315] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:12.315] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:14.318] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:16.320] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:18.323] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:20.325] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:22.328] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:24.330] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:26.331] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:28.334] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:30.335] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:32.338] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:34.340] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:36.342] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:38.345] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:40.347] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:42.349] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:44.350] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:46.351] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:48.352] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:50.355] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:52.357] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:54.359] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:56.361] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:41:58.363] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:00.364] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:02.365] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:04.367] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:06.369] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:08.371] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:10.374] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:12.376] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:14.379] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:16.381] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:18.382] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:20.384] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:22.387] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:24.389] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:26.391] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:28.392] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:30.394] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:32.397] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:34.398] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:36.400] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:38.402] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:40.404] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:42.406] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:44.408] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:46.410] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:48.413] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:50.415] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:52.418] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:54.419] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:56.421] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:42:58.422] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:00.423] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:02.426] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:04.428] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:06.430] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:08.431] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:10.434] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:12.436] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:14.439] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:16.441] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:18.444] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:20.445] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:22.448] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:24.450] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:26.452] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:28.455] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:30.458] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:32.459] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:34.461] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:36.462] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:38.465] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:40.465] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:42.468] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:44.470] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:46.472] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:48.475] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:50.477] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:52.479] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:54.482] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:56.483] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:43:58.485] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:00.486] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:02.487] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:04.489] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:06.491] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:08.493] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:10.496] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:12.496] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:14.499] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:16.500] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:18.502] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:20.504] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:22.506] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:24.508] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:26.510] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:28.511] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:30.513] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:32.515] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:34.518] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:36.519] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:38.521] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:40.524] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:42.526] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:44.528] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:46.531] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:48.533] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:50.534] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:52.535] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:54.538] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:56.539] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:44:58.541] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:00.543] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:02.546] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:04.548] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:06.551] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:08.554] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:10.556] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:12.559] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:14.561] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:16.564] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:18.567] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:20.569] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:22.571] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:24.573] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:26.575] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:28.578] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:30.579] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:32.581] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:34.582] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:36.584] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:38.587] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:40.590] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:42.592] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:44.595] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:46.596] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:48.598] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:50.599] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:52.601] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:54.603] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:56.605] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:45:58.608] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:00.610] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:02.611] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:04.612] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:06.615] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:08.617] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:10.619] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:12.621] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:14.623] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:16.625] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:18.627] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:20.629] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:22.632] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:24.634] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:26.636] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:28.638] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:30.641] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:32.642] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:34.644] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:36.647] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:38.649] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:40.651] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:42.652] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:44.653] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:46.655] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:48.658] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:50.660] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:52.663] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:54.665] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:56.668] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:46:58.669] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:00.671] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:02.672] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:04.674] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:06.676] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:08.678] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:10.681] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:12.683] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:14.685] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:16.687] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:18.689] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:20.691] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:22.692] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:24.693] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:26.695] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:28.697] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:30.699] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:32.701] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:34.702] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:36.705] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:38.707] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:40.708] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:42.709] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:44.712] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:46.715] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:48.716] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:50.718] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:52.719] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:54.721] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:56.724] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:47:58.727] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:00.727] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:02.729] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:04.731] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:06.734] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:08.736] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:10.738] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:12.741] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:14.742] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:16.745] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:18.746] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:20.748] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:22.749] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:24.751] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:26.754] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:28.756] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:30.759] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:32.761] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:34.764] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:36.767] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:38.770] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:40.773] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:42.775] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:44.778] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:46.781] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:48.782] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:50.785] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:52.786] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:54.788] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:56.791] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:48:58.792] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:00.794] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:02.797] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:04.798] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:06.801] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:08.803] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:10.806] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:12.808] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:14.811] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:16.814] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:18.815] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:20.818] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:22.819] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:24.821] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:26.822] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:28.825] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:30.828] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:32.830] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:34.833] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:36.834] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:38.837] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:40.840] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:42.842] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:44.844] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:46.847] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:48.848] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:50.849] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:52.852] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:54.854] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:56.857] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:49:58.859] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:00.861] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:02.862] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:04.864] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:06.865] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:08.868] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:10.869] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:12.872] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:14.874] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:16.877] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:18.878] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:20.880] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:22.880] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:24.882] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:26.885] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:28.886] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:30.888] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:32.891] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:34.892] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:36.895] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:38.897] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:40.900] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:42.901] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:44.901] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:46.904] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:48.907] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:50.910] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:52.913] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:54.915] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:56.918] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:50:58.921] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:00.923] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:02.925] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:04.928] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:06.931] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:08.934] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:10.936] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:12.939] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:14.941] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:16.942] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:18.945] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:20.947] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:22.949] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:24.951] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:26.952] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:28.953] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:30.956] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:32.957] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:34.959] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:36.961] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:38.964] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:40.965] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:42.968] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:44.970] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:46.972] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:48.974] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:50.976] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:52.979] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:54.982] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:56.985] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:51:58.987] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:00.989] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:02.991] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:04.992] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:06.995] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:08.997] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:11.000] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:13.003] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:15.005] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:17.009] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:19.011] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:21.014] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:23.016] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:25.017] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:27.021] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:29.023] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:31.026] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:33.027] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:35.030] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:37.033] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:39.036] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:41.038] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:43.040] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:45.043] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:47.045] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:49.047] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:51.047] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:53.049] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:55.051] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:57.054] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:52:59.055] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:01.057] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:03.059] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:05.060] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:07.063] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:09.066] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:11.068] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:13.071] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:15.072] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:15.742] [error] Host: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: Status Notifier Host with bus name ':1.133' and object path '/StatusNotifierHost/0' is already registered
+[2024-01-29 07:53:17.073] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:24.681] [info] Using configuration file /home/embern/.config/waybar/config
+[2024-01-29 07:53:24.681] [info] Using CSS file /home/embern/.config/waybar/style.css
+[2024-01-29 07:53:24.685] [info] Hyprland IPC starting
+[2024-01-29 07:53:24.687] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2024-01-29 07:53:24.688] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2024-01-29 07:53:24.693] [error] media stopped unexpectedly, is it endless?
+[2024-01-29 07:53:24.693] [warning] module temperature: Disabling module "temperature", Can't open /sys/class/thermal/thermal_zone0/temp
+[2024-01-29 07:53:24.694] [warning] module backlight: Disabling module "backlight", No backlight found
+[2024-01-29 07:53:24.694] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:53:24.694] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:53:24.694] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:53:24.694] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:53:24.694] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:53:24.694] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:53:24.694] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:53:24.694] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:53:24.694] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:53:24.694] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:53:24.694] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:53:24.694] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:53:24.694] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:53:24.694] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:53:24.694] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:53:24.694] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:53:24.694] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:53:24.694] [warning] Can't open /dev/input/event18 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:53:24.694] [warning] Can't open /dev/input/event19 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:53:24.694] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:53:24.694] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:53:24.694] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Permission denied
+[2024-01-29 07:53:24.703] [warning] No batteries.
+[2024-01-29 07:53:24.703] [warning] No battery named BAT2
+[2024-01-29 07:53:24.820] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 07:53:24.822] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 07:53:24.822] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 07:53:25.071] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 07:53:25.071] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 07:53:25.119] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 07:53:25.119] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 07:53:25.319] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 07:53:25.319] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 07:53:25.692] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:27.695] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:29.697] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:31.699] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:33.700] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:35.701] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:37.704] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:39.705] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:41.707] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:43.710] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:45.712] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:47.715] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:49.717] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:51.720] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:53.722] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:55.724] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:57.726] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:53:59.729] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:01.732] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:03.734] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:05.737] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:07.739] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:09.741] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:11.744] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:13.746] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:15.749] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:17.750] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:19.752] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:21.420] [info] Using configuration file /home/embern/.config/waybar/config
+[2024-01-29 07:54:21.420] [info] Using CSS file /home/embern/.config/waybar/style.css
+[2024-01-29 07:54:21.424] [info] Hyprland IPC starting
+[2024-01-29 07:54:21.426] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2024-01-29 07:54:21.426] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2024-01-29 07:54:21.432] [error] media stopped unexpectedly, is it endless?
+[2024-01-29 07:54:21.432] [warning] module temperature: Disabling module "temperature", Can't open /sys/class/thermal/thermal_zone0/temp
+[2024-01-29 07:54:21.432] [warning] module backlight: Disabling module "backlight", No backlight found
+[2024-01-29 07:54:21.432] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:21.432] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:21.432] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:21.432] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:21.432] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:21.432] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:21.432] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:21.432] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:21.432] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:21.432] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:21.432] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:21.432] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:21.432] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:21.432] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:21.432] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:21.432] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:21.432] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:21.432] [warning] Can't open /dev/input/event18 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:21.432] [warning] Can't open /dev/input/event19 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:21.432] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:21.432] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:21.432] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Permission denied
+[2024-01-29 07:54:21.442] [warning] No batteries.
+[2024-01-29 07:54:21.442] [warning] No battery named BAT2
+[2024-01-29 07:54:21.558] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 07:54:21.566] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 07:54:21.566] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 07:54:21.754] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:21.808] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 07:54:21.808] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 07:54:21.857] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 07:54:21.857] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 07:54:22.057] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 07:54:22.057] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 07:54:22.431] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:23.755] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:24.434] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:30.246] [info] Using configuration file /home/embern/.config/waybar/config
+[2024-01-29 07:54:30.246] [info] Using CSS file /home/embern/.config/waybar/style.css
+[2024-01-29 07:54:30.250] [info] Hyprland IPC starting
+[2024-01-29 07:54:30.252] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2024-01-29 07:54:30.252] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2024-01-29 07:54:30.258] [error] media stopped unexpectedly, is it endless?
+[2024-01-29 07:54:30.258] [warning] module temperature: Disabling module "temperature", Can't open /sys/class/thermal/thermal_zone0/temp
+[2024-01-29 07:54:30.258] [warning] module backlight: Disabling module "backlight", No backlight found
+[2024-01-29 07:54:30.259] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:30.259] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:30.259] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:30.259] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:30.259] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:30.259] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:30.259] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:30.259] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:30.259] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:30.259] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:30.259] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:30.259] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:30.259] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:30.259] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:30.259] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:30.259] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:30.259] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:30.259] [warning] Can't open /dev/input/event18 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:30.259] [warning] Can't open /dev/input/event19 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:30.259] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:30.259] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:30.259] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Permission denied
+[2024-01-29 07:54:30.268] [warning] No batteries.
+[2024-01-29 07:54:30.268] [warning] No battery named BAT2
+[2024-01-29 07:54:30.384] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 07:54:30.389] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 07:54:30.389] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 07:54:30.638] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 07:54:30.638] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 07:54:30.687] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 07:54:30.687] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 07:54:30.887] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 07:54:30.887] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 07:54:31.258] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:33.260] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:35.263] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:37.265] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:39.267] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:41.269] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:43.272] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:46.340] [info] Using configuration file /home/embern/.config/waybar/config
+[2024-01-29 07:54:46.340] [info] Using CSS file /home/embern/.config/waybar/style.css
+[2024-01-29 07:54:46.344] [info] Hyprland IPC starting
+[2024-01-29 07:54:46.346] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2024-01-29 07:54:46.346] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2024-01-29 07:54:46.352] [error] media stopped unexpectedly, is it endless?
+[2024-01-29 07:54:46.352] [warning] module temperature: Disabling module "temperature", Can't open /sys/class/thermal/thermal_zone0/temp
+[2024-01-29 07:54:46.352] [warning] module backlight: Disabling module "backlight", No backlight found
+[2024-01-29 07:54:46.353] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:46.353] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:46.353] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:46.353] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:46.353] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:46.353] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:46.353] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:46.353] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:46.353] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:46.353] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:46.353] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:46.353] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:46.353] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:46.353] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:46.353] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:46.353] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:46.353] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:46.353] [warning] Can't open /dev/input/event18 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:46.353] [warning] Can't open /dev/input/event19 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:46.353] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:46.353] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:54:46.353] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Permission denied
+[2024-01-29 07:54:46.362] [warning] No batteries.
+[2024-01-29 07:54:46.362] [warning] No battery named BAT2
+[2024-01-29 07:54:46.478] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 07:54:46.484] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 07:54:46.484] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 07:54:46.733] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 07:54:46.733] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 07:54:46.781] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 07:54:46.781] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 07:54:46.981] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 07:54:46.981] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 07:54:47.351] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:49.353] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:51.356] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:53.359] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:55.359] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:57.361] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:54:59.363] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:01.131] [info] Using configuration file /home/embern/.config/waybar/config
+[2024-01-29 07:55:01.131] [info] Using CSS file /home/embern/.config/waybar/style.css
+[2024-01-29 07:55:01.135] [info] Hyprland IPC starting
+[2024-01-29 07:55:01.137] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2024-01-29 07:55:01.137] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2024-01-29 07:55:01.143] [error] media stopped unexpectedly, is it endless?
+[2024-01-29 07:55:01.143] [warning] module temperature: Disabling module "temperature", Can't open /sys/class/thermal/thermal_zone0/temp
+[2024-01-29 07:55:01.143] [warning] module backlight: Disabling module "backlight", No backlight found
+[2024-01-29 07:55:01.143] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:01.143] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:01.143] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:01.143] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:01.143] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:01.143] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:01.143] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:01.143] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:01.143] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:01.143] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:01.143] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:01.143] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:01.143] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:01.143] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:01.143] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:01.143] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:01.143] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:01.143] [warning] Can't open /dev/input/event18 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:01.143] [warning] Can't open /dev/input/event19 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:01.143] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:01.143] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:01.144] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Permission denied
+[2024-01-29 07:55:01.153] [warning] No batteries.
+[2024-01-29 07:55:01.153] [warning] No battery named BAT2
+[2024-01-29 07:55:01.269] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 07:55:01.275] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 07:55:01.275] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 07:55:01.365] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:01.524] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 07:55:01.524] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 07:55:01.572] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 07:55:01.572] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 07:55:01.772] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 07:55:01.772] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 07:55:02.143] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:03.366] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:04.145] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:06.386] [info] Using configuration file /home/embern/.config/waybar/config
+[2024-01-29 07:55:06.386] [info] Using CSS file /home/embern/.config/waybar/style.css
+[2024-01-29 07:55:06.390] [info] Hyprland IPC starting
+[2024-01-29 07:55:06.392] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2024-01-29 07:55:06.392] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2024-01-29 07:55:06.397] [error] media stopped unexpectedly, is it endless?
+[2024-01-29 07:55:06.398] [warning] module temperature: Disabling module "temperature", Can't open /sys/class/thermal/thermal_zone0/temp
+[2024-01-29 07:55:06.398] [warning] module backlight: Disabling module "backlight", No backlight found
+[2024-01-29 07:55:06.398] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:06.398] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:06.398] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:06.398] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:06.398] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:06.398] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:06.398] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:06.398] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:06.398] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:06.398] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:06.398] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:06.398] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:06.398] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:06.398] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:06.398] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:06.398] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:06.398] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:06.398] [warning] Can't open /dev/input/event18 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:06.398] [warning] Can't open /dev/input/event19 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:06.398] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:06.398] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Permission denied
+[2024-01-29 07:55:06.398] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Permission denied
+[2024-01-29 07:55:06.408] [warning] No batteries.
+[2024-01-29 07:55:06.408] [warning] No battery named BAT2
+[2024-01-29 07:55:06.524] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 07:55:06.527] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 07:55:06.527] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 07:55:06.775] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 07:55:06.775] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 07:55:06.824] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 07:55:06.824] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 07:55:07.024] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 07:55:07.024] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 07:55:07.396] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:09.398] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:11.400] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:13.402] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:14.654] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 07:55:14.659] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 07:55:14.659] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 07:55:14.908] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 07:55:14.908] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 07:55:14.956] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 07:55:14.956] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 07:55:15.156] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 07:55:15.156] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 07:55:15.403] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:17.405] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:19.407] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:20.396] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 07:55:20.402] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 07:55:20.402] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 07:55:20.650] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 07:55:20.650] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 07:55:20.699] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 07:55:20.699] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 07:55:20.899] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 07:55:20.899] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 07:55:21.408] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:23.409] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:25.411] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:27.412] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:29.414] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:31.417] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:33.419] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:35.420] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:37.422] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:39.424] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:41.425] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:43.428] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:45.429] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:47.431] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:49.433] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:51.435] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:53.438] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:55.440] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:57.442] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:55:59.444] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:01.446] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:03.449] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:05.451] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:07.453] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:09.456] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:11.457] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:13.458] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:15.460] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:17.463] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:19.465] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:21.468] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:23.470] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:25.472] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:27.474] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:29.475] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:31.478] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:33.479] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:35.480] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:37.481] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:39.482] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:41.485] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:43.488] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:45.489] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:47.490] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:49.492] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:51.493] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:53.495] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:55.498] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:57.500] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:56:59.502] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:01.503] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:03.505] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:05.508] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:07.511] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:09.512] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:11.514] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:13.515] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:15.518] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:17.520] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:19.522] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:21.524] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:23.525] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:25.528] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:27.530] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:29.532] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:31.534] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:32.161] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 07:57:32.170] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 07:57:32.170] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 07:57:32.416] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 07:57:32.416] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 07:57:32.464] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 07:57:32.464] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 07:57:32.664] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 07:57:32.664] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 07:57:33.535] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:35.538] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:37.540] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:39.542] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:41.544] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:43.545] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:45.546] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:47.549] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:49.551] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:51.552] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:53.554] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:55.557] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:57.559] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:57:59.561] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:01.564] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:03.565] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:05.568] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:07.570] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:09.572] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:11.574] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:13.575] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:15.578] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:17.580] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:19.582] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:21.584] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:23.585] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:25.588] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:27.589] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:29.591] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:31.592] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:33.594] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:35.595] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:37.598] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:39.599] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:41.601] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:43.602] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:45.604] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:47.607] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:49.609] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:51.611] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:53.612] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:55.613] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:57.615] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:58:59.617] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:01.619] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:03.621] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:05.624] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:07.625] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:09.628] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:11.629] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:13.631] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:15.632] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:16.116] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 07:59:16.122] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 07:59:16.122] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 07:59:16.370] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 07:59:16.370] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 07:59:16.418] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 07:59:16.418] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 07:59:16.618] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 07:59:16.618] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 07:59:17.634] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:19.635] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:20.931] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 07:59:20.937] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 07:59:20.937] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 07:59:21.185] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 07:59:21.185] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 07:59:21.233] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 07:59:21.233] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 07:59:21.434] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 07:59:21.434] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 07:59:21.489] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 07:59:21.494] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 07:59:21.494] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 07:59:21.635] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:21.743] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 07:59:21.743] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 07:59:21.791] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 07:59:21.791] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 07:59:21.992] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 07:59:21.992] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 07:59:22.053] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 07:59:22.059] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 07:59:22.059] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 07:59:22.307] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 07:59:22.307] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 07:59:22.355] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 07:59:22.355] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 07:59:22.555] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 07:59:22.555] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 07:59:23.637] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:24.794] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 07:59:24.801] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 07:59:24.801] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 07:59:25.048] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 07:59:25.048] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 07:59:25.096] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 07:59:25.096] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 07:59:25.297] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 07:59:25.297] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 07:59:25.638] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:27.639] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:29.642] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:31.644] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:33.645] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:35.647] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:37.648] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:39.650] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:41.651] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:43.655] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:45.655] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:47.657] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:49.659] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:51.661] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:53.662] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:55.664] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:57.667] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 07:59:59.669] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:01.672] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:03.674] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:05.676] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:07.678] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:09.681] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:11.683] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:13.686] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:15.689] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:17.691] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:19.693] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:21.696] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:23.699] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:25.701] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:27.703] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:29.705] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:31.707] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:33.710] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:35.713] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:37.715] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:39.718] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:41.721] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:43.723] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:45.725] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:47.727] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:49.729] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:51.731] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:53.734] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:55.735] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:57.738] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:00:59.741] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:01.743] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:03.745] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:05.748] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:07.750] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:09.750] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:11.752] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:11.944] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:01:11.950] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:01:11.950] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:01:12.198] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:01:12.198] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:01:12.247] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:01:12.247] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:01:12.447] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 08:01:12.447] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 08:01:12.903] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:01:12.909] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:01:12.909] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:01:13.156] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:01:13.156] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:01:13.205] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:01:13.205] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:01:13.405] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 08:01:13.405] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 08:01:13.753] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:13.787] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:01:13.793] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:01:13.793] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:01:14.042] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:01:14.042] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:01:14.090] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:01:14.090] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:01:14.290] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 08:01:14.290] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 08:01:15.755] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:16.856] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:01:16.863] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:01:16.863] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:01:17.110] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:01:17.110] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:01:17.159] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:01:17.159] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:01:17.359] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 08:01:17.359] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 08:01:17.756] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:19.758] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:21.760] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:23.763] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:25.765] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:27.767] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:29.768] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:31.771] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:33.772] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:35.774] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:37.775] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:39.778] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:41.779] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:43.781] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:45.784] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:47.785] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:49.788] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:51.790] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:53.791] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:55.792] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:55.983] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:01:55.989] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:01:55.989] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:01:56.237] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:01:56.237] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:01:56.286] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:01:56.286] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:01:56.486] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 08:01:56.486] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 08:01:57.794] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:59.082] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:01:59.087] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:01:59.087] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:01:59.340] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:01:59.343] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:01:59.343] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:01:59.590] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:01:59.590] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:01:59.645] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:01:59.645] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:01:59.794] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:01:59.845] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 08:01:59.845] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 08:02:01.795] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:03.797] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:05.798] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:07.798] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:09.801] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:11.803] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:13.804] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:15.805] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:17.808] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:19.810] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:21.812] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:23.814] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:25.815] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:27.818] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:29.821] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:31.822] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:33.824] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:35.825] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:37.828] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:39.829] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:41.833] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:43.835] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:45.039] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:02:45.043] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:02:45.043] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:02:45.291] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:02:45.291] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:02:45.339] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:02:45.340] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:02:45.463] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:02:45.468] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:02:45.468] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:02:45.716] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:02:45.716] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:02:45.764] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:02:45.764] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:02:45.836] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:45.964] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 08:02:45.964] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 08:02:47.837] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:49.838] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:50.709] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:02:50.713] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:02:50.713] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:02:50.961] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:02:50.961] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:02:51.010] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:02:51.010] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:02:51.210] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 08:02:51.210] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 08:02:51.840] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:53.841] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:55.843] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:57.846] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:02:59.849] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:01.851] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:03.853] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:05.856] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:07.857] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:09.860] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:11.862] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:13.864] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:15.866] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:17.868] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:19.868] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:21.870] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:23.872] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:25.873] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:27.875] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:29.878] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:31.879] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:33.881] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:35.884] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:37.886] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:39.888] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:41.890] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:43.892] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:44.146] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:03:44.152] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:03:44.152] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:03:44.400] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:03:44.400] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:03:44.448] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:03:44.448] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:03:44.648] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 08:03:44.648] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 08:03:45.894] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:46.116] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:03:46.122] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:03:46.122] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:03:46.371] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:03:46.371] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:03:46.403] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:03:46.408] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:03:46.408] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:03:46.656] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:03:46.656] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:03:46.704] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:03:46.704] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:03:46.870] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:03:46.874] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:03:46.874] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:03:47.123] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:03:47.123] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:03:47.172] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:03:47.178] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:03:47.178] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:03:47.426] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:03:47.426] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:03:47.463] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:03:47.469] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:03:47.469] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:03:47.717] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:03:47.717] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:03:47.736] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:03:47.742] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:03:47.742] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:03:47.895] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:47.990] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:03:47.990] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:03:48.039] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:03:48.039] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:03:48.238] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 08:03:48.238] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 08:03:48.481] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:03:48.488] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:03:48.488] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:03:48.736] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:03:48.736] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:03:48.784] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:03:48.784] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:03:48.858] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:03:48.863] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:03:48.863] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:03:49.112] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:03:49.112] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:03:49.160] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:03:49.160] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:03:49.343] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:03:49.348] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:03:49.348] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:03:49.597] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:03:49.597] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:03:49.645] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:03:49.645] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:03:49.845] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 08:03:49.845] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 08:03:49.896] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:50.060] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:03:50.064] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:03:50.064] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:03:50.312] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:03:50.312] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:03:50.361] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:03:50.361] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:03:50.369] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:03:50.373] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:03:50.373] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:03:50.622] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:03:50.622] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:03:50.670] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:03:50.670] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:03:50.870] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 08:03:50.870] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 08:03:51.897] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:53.898] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:55.900] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:57.902] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:03:59.904] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:01.905] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:03.907] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:05.909] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:07.911] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:09.912] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:11.914] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:13.916] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:15.918] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:17.919] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:19.921] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:21.922] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:23.925] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:25.927] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:27.928] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:29.931] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:31.933] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:33.935] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:35.938] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:37.940] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:39.942] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:41.944] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:43.945] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:45.947] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:47.949] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:49.951] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:51.952] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:53.953] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:55.955] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:57.958] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:04:59.961] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:01.962] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:03.964] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:05.965] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:07.967] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:09.968] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:11.971] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:13.972] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:15.974] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:17.977] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:19.978] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:21.981] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:23.982] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:25.984] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:27.987] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:29.988] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:31.990] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:33.991] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:35.992] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:37.994] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:39.995] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:41.998] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:43.998] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:46.001] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:48.003] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:50.005] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:52.008] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:54.010] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:56.012] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:05:58.014] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:00.015] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:02.017] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:04.019] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:06.021] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:08.024] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:10.025] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:12.028] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:14.030] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:16.032] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:18.034] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:20.035] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:22.036] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:24.038] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:26.039] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:28.041] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:30.044] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:32.045] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:34.048] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:36.049] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:38.052] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:40.054] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:42.055] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:43.607] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:06:43.614] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:06:43.614] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:06:43.861] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:06:43.861] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:06:43.909] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:06:43.909] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:06:44.057] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:44.109] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 08:06:44.109] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 08:06:46.058] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:48.061] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:49.173] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:06:49.180] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:06:49.180] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:06:49.428] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:06:49.428] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:06:49.476] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:06:49.476] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:06:49.676] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 08:06:49.676] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 08:06:50.062] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:52.063] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:52.351] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:06:52.357] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:06:52.357] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:06:52.606] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:06:52.606] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:06:52.654] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:06:52.654] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:06:52.854] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 08:06:52.854] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 08:06:54.065] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:56.068] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:06:58.069] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:00.070] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:02.072] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:04.074] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:04.777] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:07:04.783] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:07:04.783] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:07:05.031] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:07:05.031] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:07:05.080] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:07:05.080] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:07:05.280] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 08:07:05.280] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 08:07:06.075] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:07.591] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:07:07.599] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:07:07.599] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:07:07.845] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:07:07.845] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:07:07.894] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:07:07.894] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:07:08.076] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:08.094] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 08:07:08.094] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 08:07:10.079] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:12.081] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:14.082] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:16.084] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:18.085] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:20.086] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:22.088] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:24.091] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:26.092] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:28.094] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:30.095] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:32.097] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:34.098] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:36.101] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:38.104] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:40.105] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:42.108] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:44.108] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:46.111] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:48.112] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:50.114] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:50.471] [info] Bar configured (width: 3440, height: 30) for output: DP-1
+[2024-01-29 08:07:50.478] [warning] Requested height: 30 is less than the minimum height: 31 required by the modules
+[2024-01-29 08:07:50.478] [info] Bar configured (width: 3440, height: 31) for output: DP-1
+[2024-01-29 08:07:50.726] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-01-29 08:07:50.726] [info] Bar configured (width: 3440, height: 32) for output: DP-1
+[2024-01-29 08:07:50.774] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2024-01-29 08:07:50.774] [info] Bar configured (width: 3440, height: 33) for output: DP-1
+[2024-01-29 08:07:50.974] [warning] Requested height: 33 is less than the minimum height: 35 required by the modules
+[2024-01-29 08:07:50.974] [info] Bar configured (width: 3440, height: 35) for output: DP-1
+[2024-01-29 08:07:52.117] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:54.119] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:56.122] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:07:58.125] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:00.126] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:02.128] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:04.131] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:06.132] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:08.134] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:10.135] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:12.138] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:14.139] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:16.141] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:18.144] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:20.145] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:22.146] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:24.148] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:26.150] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:28.152] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:30.155] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:32.155] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:34.157] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:36.158] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:38.161] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:40.162] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:42.164] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:44.165] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:46.168] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:48.171] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:50.172] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:52.175] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:54.178] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:56.179] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:08:58.181] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:00.182] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:02.185] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:04.188] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:06.188] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:08.191] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:10.194] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:12.195] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:14.197] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:16.198] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:18.201] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:20.202] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:22.204] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:24.205] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:26.208] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:28.211] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:30.212] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:32.214] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:34.217] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:36.218] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:38.221] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:40.222] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:42.224] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:44.225] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:46.228] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:48.229] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:50.230] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:52.233] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:54.235] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:56.238] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:09:58.241] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:00.242] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:02.244] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:04.245] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:06.248] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:08.249] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:10.251] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:12.254] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:14.257] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:16.258] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:18.260] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:20.262] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:22.264] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:24.267] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:26.268] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:28.271] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:30.272] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:32.275] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:34.277] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:36.278] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:38.280] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:40.282] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:42.283] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:44.285] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:46.288] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:48.290] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:50.293] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:52.295] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:54.298] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:56.298] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:10:58.302] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:11:00.303] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:11:02.305] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:11:04.308] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:11:06.308] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:11:08.311] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:11:10.313] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:11:12.315] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:11:14.318] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:11:16.319] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:11:18.321] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:11:20.324] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:11:22.326] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:11:24.328] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:11:26.331] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:11:28.334] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:11:30.337] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:11:32.339] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:11:34.341] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-01-29 08:11:36.342] [error] mpd: Failed to connect to MPD: Connection refused
